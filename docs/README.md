@@ -7,7 +7,7 @@
     * 입력받은 값 판단
     * 재시작/종료
     * 예외처리
-    ***
+    * * *
 * 요구사항
     * camp.nextstep.edu.missionutils 사용
     * System.exit() 미사용
